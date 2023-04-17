@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Tydzien2Lekcja8
 {
-    public static class Zadanie1
+    public static class Zadanie1 // Napisz program, który sprawdzi ile jest liczb pierwszych w zakresie 0 – 100.
     {
         public static void WyswietlZadanie()
         {

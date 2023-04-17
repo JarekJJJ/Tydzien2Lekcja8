@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Tydzien2Lekcja8
 {
-    public static class Zadanie3
+    public static class Zadanie3 // Napisz program, który po podaniu liczby całkowitej wyświetli piramidę 
     {
         public static void WyswietlZadanie()
         {

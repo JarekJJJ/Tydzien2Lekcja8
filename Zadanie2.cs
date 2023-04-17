@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Tydzien2Lekcja8
 {
-    public static class Zadanie2
+    public static class Zadanie2 // Napisz program, który zaimplementuje ciąg Fibonacciego i wyświetli go na ekranie.
     {
         public static void WyswietlZadanie()
         {
